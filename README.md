@@ -45,7 +45,7 @@
 
 1.  **Clone the repository (example):**
     ```bash
-    git clone [https://github.com/AkitaEngineering/akita-meshfs.git](https://github.com/AkitaEngineering/akita-meshfs.git)
+    git clone [https://github.com/AkitaEngineering/akita-meshfs.git]
     cd akita-meshfs
     ```
 
